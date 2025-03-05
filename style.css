@@ -15,3 +15,19 @@
     align-items: center;
    
 }
+
+
+.conor{
+    width: 1000px;
+    height: 500px;
+    border: 10px solid rgb(0, 0, 0);
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.conor img{
+    width: 500px;
+    height: 500px;
+}

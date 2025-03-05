@@ -1,6 +1,6 @@
 .qq {
-    width: 550px;
-    height: 400px;
+    width: 350px;
+    height: 150px;
     background-color:  black;
     margin: 0 auto;
     align-items: center;
@@ -8,11 +8,14 @@
 }
 
 .ww {
-    width: 780px;
-    height: 540px;
+    width: 350px;
+    height: 150px;
     background-color: green;
     margin: 0 auto;
     align-items: center;
+    align-content: center;
+    image-rendering: auto;
+
    
 }
 
